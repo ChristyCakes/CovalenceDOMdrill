@@ -1,0 +1,10 @@
+.box{
+    border: 1rem solid black;
+    width: 20%;
+    height: 20rem;
+    float: left;
+    display: flex;                  /* center text (block element) inside border box both horizontally & vertically, use these last 3 lines */
+    align-items: center;
+    justify-content: center;
+}
+
